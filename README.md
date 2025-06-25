@@ -1,22 +1,22 @@
 <p align="center" style="margin-top: 120px">
    <a href="/github">
-    <img width="100px" src="https://openbio.app/openbio.png" alt="OpenBio">
+    <img width="100px" src="http://linkspot.ch/wp-content/uploads/2025/06/Artboard-1-1.png" alt="LinkSpot">
    </a>
 </p>
 
 <p align="center">
    <a href="/discord"><img alt="Discord" src="https://img.shields.io/discord/1146392594948034682"></a>
-   <a href="https://github.com/vanxh/openbio/stargazers"><img src="https://img.shields.io/github/stars/vanxh/openbio" alt="Github Stars"></a>
+   <a href="https://github.com/yasinoezy/linkspot"><img src="https://img.shields.io/github/stars/vanxh/openbio" alt="Github Stars"></a>
    <a href="https://github.com/vanxh/openbio/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-AGPLv3-purple" alt="License"></a>
    <a href="https://github.com/vanxh/openbio/pulse"><img src="https://img.shields.io/github/commit-activity/m/vanxh/openbio" alt="Commits-per-month"></a>
 </p>
 
-## About OpenBio.app
+## About LinkSpot
 
 OpenBio is an open source link in bio page builder.
 
 <a href="https://openbio.app/vanxh">
-   <img width="300px" src="https://openbio.app/example.jpg" alt="OpenBio example" />
+   <img width="300px" src="https://openbio.app/example.jpg" alt="LinkSpot example" />
 </a>
 
 ## Contributing
